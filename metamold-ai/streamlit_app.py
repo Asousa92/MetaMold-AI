@@ -3,6 +3,8 @@ MetaMold AI - Sistema de Orçamentação Inteligente para Moldes 3D
 Com renderização 3D de ficheiros STEP/STL usando Plotly
 """
 
+BACKEND_URL = "https://metamold-ai.onrender.com"
+
 import streamlit as st
 import trimesh
 import numpy as np
