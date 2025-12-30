@@ -9,4 +9,4 @@ python-multipart>=0.0.6
 
 # CadQuery (opcional mas recomendado para STEP)
 # A instalação pode requerer passos adicionais no servidor
-cadquery>=8.0.0
+cadquery>=2.6.1
